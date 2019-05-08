@@ -1,0 +1,40 @@
+{
+  "Employees": [
+    {
+      "name": "blizz",
+      "tech": "React",
+      "empID": 1
+    },
+    {
+      "name": "qwerty",
+      "tech": "React",
+      "empID": 2
+    },
+
+    {
+      "name": "mmm",
+      "tech": "Angular",
+      "empID": 3
+    },
+    {
+      "name": "nnn",
+      "tech": "android",
+      "empID": 4
+    },
+    {
+      "name": "ooo",
+      "tech": "android",
+      "empID": 5
+    },
+    {
+      "name": "ppp",
+      "tech": "ios",
+      "empID": 6
+    },
+    {
+      "name": "qqq",
+      "tech": "React",
+      "empID": 7
+    }
+  ]
+}
